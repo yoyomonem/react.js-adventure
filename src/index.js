@@ -10,7 +10,7 @@ export default class App extends Component {
       .then((r) => r.json())
       .then((json) => {
         this.setState({
-          results: (json && json.items) || []
+          results: (json && json.items) || [],
         });
       });
   }
