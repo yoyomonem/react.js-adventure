@@ -1,2 +1,2 @@
-# react.js-adventure
-Created with CodeSandbox
+# React.js Adventure!
+It's an adventure!
